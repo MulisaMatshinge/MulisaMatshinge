@@ -55,21 +55,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MulisaMatshinge&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c8a96e&icon_color=c8a96e&text_color=f0ece3" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MulisaMatshinge&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0d1117&title_color=c8a96e&text_color=f0ece3" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MulisaMatshinge&theme=dark&hide_border=true&background=0d1117&ring=c8a96e&fire=c8a96e&currStreakLabel=c8a96e" height="180"/>
-</p>
-
 ---
 
 ## 🤝 Let's Connect
