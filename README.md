@@ -35,7 +35,7 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%2FELT-6DB33F?style=for-the-badge&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-6DB33F?style=for-the-badge&logoColor=white)
 
 ### Cloud & Infrastructure
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -58,44 +58,16 @@
 
 ---
 
-## 🏅 Certifications
-
-| Badge | Certification | Issuer | Year |
-|-------|--------------|--------|------|
-| ☁️ | Microsoft Certified: **Azure Fundamentals (AZ-900)** | Microsoft | 2024 |
-| 📊 | Microsoft Certified: **Power BI Data Analyst Associate (PL-300)** | Microsoft | 2024 |
-| 🎓 | **Data Analytics Certificate** | ALX Africa | 2025 |
-
----
-
-## 🚀 Featured Projects
-
-### ⚡ 1 Billion Records/Hour Data Pipeline
-> Apache Kafka · Spark · Python · Azure · Docker · Kubernetes
-
-Built a high-throughput end-to-end ETL pipeline capable of ingesting and processing over 1 billion records per hour. Designed relational data models for financial transaction analysis and deployed with Docker and Kubernetes for scalable, fault-tolerant processing.
-
----
-
-### 🎬 Netflix Recommendation Data Pipeline
-> Apache Kafka · Spark · Python · Azure
-
-Engineered a streaming data pipeline to ingest and analyse viewing behaviour at scale. Designed relational models for content analysis and deployed on Azure with containerised infrastructure.
-
----
-
-### 💰 Personal Finance Tracking Pipeline
-> Azure Blob Storage · Pandas · Java · Spring · ML
-
-Built an end-to-end pipeline to ingest personal financial transactions, apply ML-based categorisation, and generate monthly spending insights. Deployed on Azure with Docker and Kubernetes.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MulisaMatshinge&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c8a96e&icon_color=c8a96e&text_color=f0ece3" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MulisaMatshinge&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c8a96e&text_color=f0ece3" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MulisaMatshinge&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c8a96e&icon_color=c8a96e&text_color=f0ece3" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MulisaMatshinge&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0d1117&title_color=c8a96e&text_color=f0ece3" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MulisaMatshinge&theme=dark&hide_border=true&background=0d1117&ring=c8a96e&fire=c8a96e&currStreakLabel=c8a96e" height="180"/>
 </p>
 
 ---
