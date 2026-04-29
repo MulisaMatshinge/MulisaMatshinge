@@ -66,6 +66,3 @@ I'm actively looking for opportunities in **Data Engineering**, **Data Analysis*
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MulisaMatshinge&color=c8a96e&style=flat-square&label=Profile+Views"/>
-</p>
