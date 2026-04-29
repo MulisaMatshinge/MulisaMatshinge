@@ -13,9 +13,9 @@
 ## 🌟 About Me
 
 - 🎓 Final-year **Bachelor of Information Technology (Business Systems)** student at **IIE Rosebank College**, Pretoria
-- 🛠️ Active **ALX Data Engineering** programme trainee — covering Python, Data Analytics & Data Engineering Specialization
+- 🛠️ Active **ALX Data Engineering** programme trainee  covering Python, Data Analytics & Data Engineering Specialization
 - ☁️ **Microsoft Azure Certified** (AZ-900) & **Power BI Data Analyst** (PL-300)
-- 📊 I build dashboards and pipelines for diverse business scenarios — from cloud ingestion to BI reporting
+- 📊 I build dashboards and pipelines for diverse business scenarios from cloud ingestion to BI reporting
 - 🤝 Team player with grit, a hunger to learn, and a drive to deliver work that actually matters
 - 🌍 Based in **Pretoria, Gauteng, South Africa**
 - 🔍 Open to **Graduate Programmes · Internships · Learnerships** in Data Engineering, Data Analysis, Business Intelligence & Business Analysis
